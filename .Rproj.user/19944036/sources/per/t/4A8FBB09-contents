@@ -1,0 +1,15 @@
+install.packages('debtools')
+R CMD INSTALL debtools
+R CMD INSTALL 'debtools'
+install.packages(debtools)
+install.packages('Rtools')
+install.packages('Rtools')
+install.packages('Rtools')
+install.packages(debtools)
+install.packages('debtools'')
+install.packages('debtools')
+install.packages('devtools')
+library(devtools)
+library(KernSmooth)
+aes()
+install.packages('ggplot2')
